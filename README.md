@@ -16,12 +16,12 @@ The dashboard helps users monitor key business performance indicators (KPIs) and
 
 The dashboard displays the following metrics:
 
-- **Total Revenue:** ₹6,45,223
-- **Total Gross Profit:** ₹2,96,384.25
+- **Total Revenue:** $6,45,223
+- **Total Gross Profit:** $2,96,384.25
 - **Gross Profit Margin:** 45.94%
 - **Total Units Sold:** 6,698
 - **Total Orders:** 2,707
-- **Cost of Goods Sold (COGS):** ₹3,48,839
+- **Cost of Goods Sold (COGS):** $3,48,839
 
 *These values reflect the dashboard screenshot and may change when filters are applied.*
 
