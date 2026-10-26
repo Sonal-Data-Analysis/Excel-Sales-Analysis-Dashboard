@@ -89,8 +89,8 @@ This dashboard helps answer questions such as:
 
 Based on the displayed dashboard:
 
-- Total revenue is ₹6,45,223.
-- Total gross profit is ₹2,96,384.25.
+- Total revenue is $6,45,223.
+- Total gross profit is $2,96,384.25.
 - The gross profit margin is 45.94%.
 - The Online Store channel has the largest displayed revenue share, at approximately 40%.
 - The United Kingdom ranks first among the five displayed countries by revenue.
